@@ -3,6 +3,9 @@ Qui troverai una serie di esercizi di informatica divisi per argomento e diffico
 
 Goditi gli esercizi e... buona programmazione!
 
+CIAO
+
+
 ## Esercizi su tipi di dato primari (stringhe e numeri)
 * **Facili**
   * Somma e media
